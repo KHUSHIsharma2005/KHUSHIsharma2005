@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Khushi!+👋;I'm+a+Front+End+Developer;Learning+UI/UX+and+Java;;Building+Intuitive+Interfaces)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Khushi!+👋;I'm+a+Front+End+Developer;Learning+UI/UX+and+Java;;Building+Intuitive+Interfaces)
+
 <!-- <h1 align="center">Hi 👋, It's me Khushi</h1> -->
 
 🧐 About
