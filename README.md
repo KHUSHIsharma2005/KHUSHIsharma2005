@@ -4,7 +4,7 @@
 
 🧐 About
 
-<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with latest tech available😄
+<h3 align="center">Front-End Developer learning UI/UX and Java, passionate about building intuitive web and mobile interfaces.😄
 </h3>
 
 <br>
