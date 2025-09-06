@@ -11,7 +11,7 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://github.com/KHUSHIsharma2005/KHUSHIsharma2005/blob/main/image_processing20191022-29550-158wqf6.gif" />
 
 
-I’m a 3rd-Year BTech Engineering Student
+I’m a Final Year BTech Engineering Student
 - 🌱 I’m currently diving deep into UI/UX design and expanding my skills in Java.<br>
 - 👯 I’m looking to collaborate with other developers and creatives :wink:
 - 🥅 2024 Goals: Work on exciting Java projects and enhance web development skills.
